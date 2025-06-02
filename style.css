@@ -1,0 +1,58 @@
+
+body {
+  background-color: #800080;
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #fff6e6;
+  color: #333;
+  text-align: center;
+}
+#game-container {
+  max-width: 1000px;
+  margin: auto;
+  padding: 20px;
+}
+header h1 {
+  color: #ff9900;
+}
+.panel {
+  display: inline-block;
+  vertical-align: top;
+  width: 45%;
+  min-height: 300px;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 15px;
+}
+#panel-left {
+  background-color: #800080; /* Roxo */
+  color: white;
+}
+#panel-right {
+  background-color: #dda0dd; /* Lilás */
+  color: white;
+}
+button {
+  background-color: #ff9900; /* Laranja */
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin: 5px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-weight: bold;
+}
+#ranking {
+  margin-top: 20px;
+  background-color: #ffff66; /* Amarelo */
+  padding: 10px;
+  border-radius: 10px;
+}
+
+#left-panel {
+  background-color: #E6CCFF;
+}
+
+.card {
+  background-color: orange;
+}
